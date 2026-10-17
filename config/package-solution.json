@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "mg-digital-approval-client-side-solution",
+    "id": "5dea29a3-eccd-4ee0-aa59-3992a7b3164d",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.23.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "MGDigitalApproval description"
+      },
+      "longDescription": {
+        "default": "MGDigitalApproval description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "mg-digital-approval Feature",
+        "description": "The feature that activates elements of the mg-digital-approval solution.",
+        "id": "1547cf7b-a202-464c-85b2-4507b79850a2",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/mg-digital-approval.sppkg"
+  }
+}

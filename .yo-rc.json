@@ -1,0 +1,19 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "useGulp": false,
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.22.2",
+    "sdksVersions": {},
+    "version": "1.23.2",
+    "libraryName": "mg-digital-approval",
+    "libraryId": "5dea29a3-eccd-4ee0-aa59-3992a7b3164d",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "MGDigitalApproval",
+    "solutionShortDescription": "MGDigitalApproval description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
